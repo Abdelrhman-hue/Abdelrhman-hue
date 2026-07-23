@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Abdelrahman Attia
 
-<!--
-**Abdelrhman-hue/Abdelrhman-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full-Stack Developer (MERN Stack)
 
-Here are some ideas to get you started:
+I'm passionate about building modern, scalable, and responsive web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Stripe
+- Git & GitHub
+
+### 📫 Connect with me
+
+- LinkedIn:
+  https://www.linkedin.com/in/abdelrahman-sfwat-attia-9526b3423
+
+- GitHub:
+  https://github.com/Abdelrhman-hue
+
+⭐ Always learning and building.
