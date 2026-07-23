@@ -5,7 +5,8 @@
 
 </p>
 
-Hi 👋 I'm Abdelrahman Attia
+<h1 align="center">Hi 👋 I'm Abdelrahman Attia
+</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" />
