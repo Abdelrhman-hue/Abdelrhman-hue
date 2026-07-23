@@ -14,7 +14,9 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)
+<a href="https://abdelrahman-full-stackdeveloper.lovable.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 Full-Stack Developer
 <p align="center">
@@ -41,11 +43,6 @@ Full-Stack Developer
 
 
 <h2 align="center">⭐Pinned Projects</h2>
-
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 
 ⭐ E-Commerce
 
@@ -85,18 +82,3 @@ Full-Stack Developer
 
 </p>
 
-────────────────────────────────────
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)
-
-📊 [GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrhman-hue&show_icons=true&theme=tokyonight)
-
-📈 [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdelrhman-hue&theme=react-dark)
-
-🔥 Streak
-
-📊 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrhman-hue&layout=compact&theme=tokyonight)
-
-────────────────────────────────────
