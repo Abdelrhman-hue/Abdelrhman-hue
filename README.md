@@ -37,7 +37,7 @@ Full-Stack Developer
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,tailwind,git,github,vscode,postman,figma,redux"/>
+<img  src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,tailwind,git,github,vscode,postman,figma,redux,py,prisma,postgres,materialui,js,gitlab,dotnet,docker,css,cs,bootstrap"/>
 
 </p>
 
