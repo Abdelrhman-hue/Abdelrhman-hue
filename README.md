@@ -1,84 +1,71 @@
-
 <p align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGj3NubKXDOhw/profile-displaybackgroundimage-shrink_350_1400/B4DZ.Pxtp7HQAU-/0/1784823602102?e=1786579200&v=beta&t=4-iEce885vrSl_34q6-d8zXAfyLazhRvafUVuKmDlNQ"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="700" alt="hero"/>
 
 </p>
 
-<h1 align="center">Hi 👋 I'm Abdelrahman Attia
-</h1>
+# Abdelrahman Attia 👋
+
+Full-Stack Developer • MERN • Next.js • TypeScript
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" />
-</p>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-<a href="https://abdelrahman-full-stackdeveloper.lovable.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-Full-Stack Developer
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack;Next.js+Developer;Always+Learning;Front+and+Back"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-sfwat-attia-9526b3423)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrhman-hue)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelrahman-full-stackdeveloper.lovable.app/)
 
 </p>
 
+---
 
-<h2 align="center">🚀 About Me</h2>
+## 🚀 About Me
 
-• Full-Stack Developer
-• MERN Stack
-• Next.js
-• TypeScript
-• Egypt
+- Full-Stack Developer based in Egypt
+- Specializing in MERN stack and Next.js
+- Strong TypeScript skills and experience with databases, REST APIs and modern frontend tooling
 
-<h2 align="center">💻 Tech Stack</h2>
+---
+
+## 💻 Tech Stack
+
 <p align="center">
 
-<img  src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,tailwind,git,github,vscode,postman,figma,redux,py,prisma,postgres,materialui,js,gitlab,dotnet,docker,css,cs,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,tailwind,git,github,vscode,postman,figma,redux,prisma,postgres,materialui,js,dotnet,docker,css,bootstrap" alt="tech stack"/>
 
 </p>
 
+---
 
-<h2 align="center">⭐Pinned Projects</h2>
+## ⭐ Pinned Projects
 
-⭐ E-Commerce
+- E-Commerce — A full-stack e-commerce app (MERN/Next.js)
+- Portfolio — My personal website (Next.js + Tailwind)
+- Dashboard — Admin dashboard with charts and auth
 
-⭐ Portfolio
+(Links and short descriptions can be added here — tell me if you want me to link the actual repos.)
 
-⭐ Dashboard
+---
 
-<h2 align="center">📫 Connect with Me</h2>
+## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdelrahman-sfwat-attia-9526b3423" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/abdelrahman-sfwat-attia-9526b3423" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="https://github.com/Abdelrhman-hue" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <a href="mailto:abdelrhmansfawt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
   <a href="https://wa.me/201012608076">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
-<p align="center">
+---
 
-<a href="https://www.linkedin.com/in/abdelrahman-sfwat-attia-9526b3423">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/Abdelrhman-hue">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
+<footer align="center">Made with ❤️ — Always learning and building ✨</footer>
