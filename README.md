@@ -30,7 +30,7 @@ Full-Stack Developer • MERN • Next.js • TypeScript
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,tailwind,git,github,vscode,postman,figma,redux,prisma,postgres,materialui,js,dotnet,docker,css,bootstrap" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,tailwind,git,github,vscode,postman,figma,redux,prisma,postgres,materialui,js,php,dotnet,docker,css,bootstrap,laravel" alt="tech stack"/>
 
 </p>
 
